@@ -26,7 +26,7 @@ This project involves the creation of a comprehensive HR Analytics Dashboard for
 
 ---
 #### Technical Implementation (DAX & Data Engineering)
-** Calculated columns and measures were developed to enhance analytical depth:  
+Calculated columns and measures were developed to enhance analytical depth:  
 
 - Age Groups: Segmented into Early Career (16-30), Mid Career (31-45), and Senior (46+).  
 - Salary Ranges: Grouped into 0-5K, 5-10K, and 10K+ brackets.  
