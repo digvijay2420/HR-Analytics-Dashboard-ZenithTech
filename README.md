@@ -46,9 +46,20 @@ This project involves the creation of a comprehensive HR Analytics Dashboard for
 - **Compensation:** Perform salary benchmarking and review structures for the 0-5K bracket
 
 ---
-## 📊 Dashboard Visuals
+## Dashboard Visuals
 Here is a preview of the interactive Organizational Health Monitor developed in Power BI:
 
 ![ZenithTech HR Dashboard](## 📊 Dashboard Visuals
 Here is a preview of the interactive Organizational Health Monitor developed in Power BI:
 ![ZenithTech HR Dashboard](Screenshots/Dashboard_Screenshot.png))
+
+---
+#### Conclusion
+The HR Analytics Dashboard successfully transforms 1,470 raw employee records into a dynamic "Organizational Health Monitor" using Power BI. By identifying that attrition at ZenithTech Solutions is heavily concentrated in specific salary brackets (0-5K) and within the first two years of tenure, this project moves the organization from intuitive management to data-driven strategic foresight. The insights derived provide a clear roadmap for precision interventions, enabling the company to reduce turnover costs and foster a more stable, satisfied workforce.
+
+---
+### Academic & Professional Context
+- Name: Digvijay SIngh
+- Fellowship: HEPro AI Business Analytics Fellowship (Jan 2026 – June 2026)
+- Focus Areas: Business Intelligence (BI), Data Transformation, KPI Development, and Data-Driven Decision Making.
+- Tools Used: Power BI Desktop, Microsoft Excel, Power Query, and DAX (Data Analysis Expressions).
