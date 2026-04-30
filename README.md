@@ -51,4 +51,4 @@ Here is a preview of the interactive Organizational Health Monitor developed in 
 
 ![ZenithTech HR Dashboard](## 📊 Dashboard Visuals
 Here is a preview of the interactive Organizational Health Monitor developed in Power BI:
-![ZenithTech HR Dashboard](Screenshots/Dashboard_Overview.png))
+![ZenithTech HR Dashboard](Screenshots/Dashboard_Screenshot.png))
