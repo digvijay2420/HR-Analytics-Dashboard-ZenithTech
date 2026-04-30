@@ -46,3 +46,9 @@ This project involves the creation of a comprehensive HR Analytics Dashboard for
 - **Compensation:** Perform salary benchmarking and review structures for the 0-5K bracket
 
 ---
+## 📊 Dashboard Visuals
+Here is a preview of the interactive Organizational Health Monitor developed in Power BI:
+
+![ZenithTech HR Dashboard](## 📊 Dashboard Visuals
+Here is a preview of the interactive Organizational Health Monitor developed in Power BI:
+![ZenithTech HR Dashboard](Screenshots/Dashboard_Overview.png))
