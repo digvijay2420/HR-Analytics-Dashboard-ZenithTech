@@ -1,7 +1,7 @@
 # HEPro AI Business Analytics Fellowship (Jan 2026-June 2026)
 
 ### HR-Analytics-Dashboard-ZenithTech
-**An interactive Power BI dashboard for ZenithTech to visualize key HR metrics, track attrition, and drive data-driven workforce planning
+An interactive Power BI dashboard for ZenithTech to visualize key HR metrics, track attrition, and drive data-driven workforce planning
 
 ---
 #### Project Overview
@@ -16,7 +16,7 @@ This project involves the creation of a comprehensive HR Analytics Dashboard for
 
 ---
 #### Dataset Description
-** The analysis is based on a structured dataset containing 1,470 records with various categorical and numerical variables:  
+The analysis is based on a structured dataset containing 1,470 records with various categorical and numerical variables:  
 
 - Identification: EmployeeID.  
 - Demographics: Age, Gender, Education Field.  
